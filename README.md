@@ -51,4 +51,5 @@ The file [IntroML_MINES_PARIS_Azencott.pdf] is a also a general introduction to 
 
 - Deep Learning Summer School: [http://videolectures.net/deeplearning2015_montreal/](http://videolectures.net/deeplearning2015_montreal/)
 
-- Book on Deep Learning: [http://www.deeplearningbook.org/] (http://www.deeplearningbook.org/)
+
+- Book on Deep Learning: [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/)
